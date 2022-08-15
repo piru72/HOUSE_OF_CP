@@ -1,0 +1,5 @@
+1. https://cses.fi/problemset/
+(The problems are categorized into different categories, You can complete them onye by one, I suggest you begin with Introductory category)
+
+2. Solve 36 problems here as a start up - https://lightoj.com/problems/category/warm-up
+

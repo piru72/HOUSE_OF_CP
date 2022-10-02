@@ -8,7 +8,7 @@
 6. [Math-Geometry](https://codeforces.com/group/MWSDmqGsZm/contest/223338)
 7. [Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339)
 
-N:B: This is just the path I am currently follwing not a pro suggestion . All the things above are just a collection of what I needed and did.
+N:B: This is just the path I am currently follwing not a pro suggestion . All the things above are just a collection of what I needed and did.Follow them at your own risk!
 
 
 
